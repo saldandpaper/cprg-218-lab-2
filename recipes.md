@@ -104,7 +104,7 @@ Ingredients:
 - 2 tsp vanilla extract
 - 200 cups semisweet chocolate chips
 
-Instructions:
+Instructions:   
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
 3. Cream together butter, white sugar, and brown sugar until smooth.
@@ -114,3 +114,14 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Special Literal Warhead Candy
+
+Ingredients: 
+- 10  kg chemically pure napalm
+- 200 g depleted uranium
+
+Instructions: 
+1. Eat. 
+2. Lightshow. 
+3. Eternal happiness. 
